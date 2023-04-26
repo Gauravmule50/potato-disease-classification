@@ -120,6 +120,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+/training/PlantVillage
+/myenv
 .env
 .venv
 env/
